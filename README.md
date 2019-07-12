@@ -6,3 +6,8 @@
 - 问题：输出句中最长的单词以及单词的长度
 
 - 代码：[code_day1](/code/day1.php)
+
+## Day2
+- 问题：编写一个php函数，找出一个字符串中出现"hello"这个单词的所有位置
+
+- 代码：[code_day2](/code/day2.php)
