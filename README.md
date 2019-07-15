@@ -23,3 +23,9 @@
 - 问题；在不用str_replace()函数情况下，将字符串"ohello world"中的'o'都替换成'n'
 
 - 代码：[code_day4](/code/day4.php)
+
+## Day5
+
+- 问题；将 1234567890 转换为 1,234,567,890 每3位用逗号隔开的形式。
+
+- 代码：[code_day5](/code/day5.php)
