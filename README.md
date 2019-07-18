@@ -41,3 +41,9 @@
 - 问题：找出两个有序数字元素数组中的相同元素。
 
 - 代码：[code_day7](/code/day7.php)
+
+## Day8
+
+- 问题：求n以内的质数。
+
+- 代码：[code_day8](/code/day8.php)
