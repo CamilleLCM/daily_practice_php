@@ -1,5 +1,5 @@
 <?php
-//½«Êý×éÖÐµÄÔªËØ´òÂÒ
+//å°†æ•°ç»„ä¸­çš„å…ƒç´ æ‰“ä¹±
 function randArr($arr){
     $count = count($arr);
     for ($i = 0;$i < $count;$i++){
