@@ -65,3 +65,9 @@
 - 问题：将数组中的元素打乱。
 
 - 代码：[code_day11](/code/day11.php)
+
+## Day12
+
+- 问题：实现一个函数，将字符串 “hello_world”转换成 "HelloWorld","hello_zhong_guo"转换成“HelloZhongGuo。
+
+- 代码：[code_day12](/code/day12.php)
