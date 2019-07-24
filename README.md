@@ -71,3 +71,9 @@
 - 问题：实现一个函数，将字符串 “hello_world”转换成 "HelloWorld","hello_zhong_guo"转换成“HelloZhongGuo。
 
 - 代码：[code_day12](/code/day12.php)
+
+## Day13
+
+- 问题：写一个函数，计算数值数组中最大数和最小数的差。
+
+- 代码：[code_day13](/code/day13.php)
