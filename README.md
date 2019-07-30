@@ -84,3 +84,15 @@
   请用正则表达式验证，对于不符合要求的$string返回出错信息
 
 - 代码：[code_day14](/code/day14.php)
+
+## Day15
+
+- 问题：使用冒泡排序将一个数组按升序排列
+
+- 代码：[code_day15](/code/day15.php)
+
+## Day16
+
+- 问题：有一个网页地址，比如百度主页：http://www.baidu.com，如何得到它的内容。
+
+- 代码：[code_day16](/code/day16.php)
