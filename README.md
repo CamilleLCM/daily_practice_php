@@ -93,6 +93,6 @@
 
 ## Day16
 
-- 问题：有一个网页地址，比如百度主页：http://www.baidu.com，如何得到它的内容。
+- 问题：有一个网页地址，比如百度主页：http://www.baidu.com ，如何得到它的内容。
 
 - 代码：[code_day16](/code/day16.php)
