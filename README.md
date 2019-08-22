@@ -102,3 +102,10 @@
 - 问题：快速排序
 
 - 代码：[code_day17](/code/day17.php)
+
+
+## Day18
+
+- 问题：插入排序
+
+- 代码：[code_day18](/code/day18.php)

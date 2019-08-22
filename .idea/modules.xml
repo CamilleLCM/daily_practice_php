@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://D:/phpstudy_pro/WWW/alumni/.idea/alumni.iml" filepath="D:/phpstudy_pro/WWW/alumni/.idea/alumni.iml" />
+      <module fileurl="file://D:/phpstudy_pro/WWW/alumni-anxi/.idea/alumni-anxi.iml" filepath="D:/phpstudy_pro/WWW/alumni-anxi/.idea/alumni-anxi.iml" />
       <module fileurl="file://D:/phpstudy_pro/WWW/com.children-voice/.idea/com.children-voice.iml" filepath="D:/phpstudy_pro/WWW/com.children-voice/.idea/com.children-voice.iml" />
       <module fileurl="file://D:/phpstudy_pro/WWW/com.millionser/.idea/com.millionser.iml" filepath="D:/phpstudy_pro/WWW/com.millionser/.idea/com.millionser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/daily_practice_php.iml" filepath="$PROJECT_DIR$/.idea/daily_practice_php.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server/.idea/server.iml" filepath="$PROJECT_DIR$/../server/.idea/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../server-api/.idea/server-api.iml" filepath="$PROJECT_DIR$/../server-api/.idea/server-api.iml" />
     </modules>
   </component>
 </project>

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../server-api" vcs="Git" />
+    <mapping directory="D:/phpstudy_pro/WWW/alumni" vcs="Git" />
+    <mapping directory="D:/phpstudy_pro/WWW/alumni-anxi" vcs="Git" />
     <mapping directory="D:/phpstudy_pro/WWW/com.millionser" vcs="Git" />
   </component>
 </project>

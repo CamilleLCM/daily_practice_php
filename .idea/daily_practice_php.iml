@@ -6,5 +6,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="com.children-voice" />
     <orderEntry type="module" module-name="com.millionser" />
+    <orderEntry type="module" module-name="alumni" />
+    <orderEntry type="module" module-name="server" />
+    <orderEntry type="module" module-name="alumni-anxi" />
+    <orderEntry type="module" module-name="server-api" />
   </component>
 </module>
